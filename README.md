@@ -5,25 +5,25 @@
 
 ## Private Internet Access
 
-## Sublime Text
+## Atom
 
 ## Chrome
 
 - Vimium
 - Ublock Origin
-
-## Omnifocus
-
-## Transmit
-
-## Soundflower
-
-## Ulysses
-
-##Â 11Password
-
+-
 ## Bartender
 
 ## Airmail
 
 ## Moom
+
+## Omnifocus
+
+## 1Password
+
+## Soundflower
+
+## Ulysses
+
+## Transmit
